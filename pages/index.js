@@ -1,5 +1,5 @@
-function Home() {
-  return <h1> Letícia Reis se me ama dá uma risadinha :D </h1>;
+function Home () => {
+return <h1> Página em Construção </h1>
 }
 
-export default Home;
+export Home();
